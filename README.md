@@ -36,6 +36,7 @@
 | 2024 | Stage (2 mois)  Transformation Digitale | Banque Populaire Grand Ouest 🇫🇷 |
 | 2024 | Stage (2 mois)  Community manager | BONéBIEN 🇹🇳 |
 | 2023 | Stage (2 mois)  Community manager | BONéBIEN 🇹🇳 |
+| 2022 | Stage (2 mois)  Assistant Back Office|Banque Internationale Arabe de Tunis (BIAT) 🇹🇳 |
 | 2019-2021 | VP Communication | Enactus ESC Tunis 🇹🇳 |
 
 ---
