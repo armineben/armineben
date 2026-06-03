@@ -17,12 +17,52 @@
 
 #### 🛠️ Stack & Outils
 
-![Excel](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+#### 🛠️ Stack & Outils
+
+**🎨 Design & Visuel**
+
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Identité visuelle](https://img.shields.io/badge/Identit%C3%A9%20visuelle-8B5CF6?style=flat&logoColor=white)
+
+**📱 Réseaux Sociaux**
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Community Mgmt](https://img.shields.io/badge/Community%20Mgmt-F59E0B?style=flat&logoColor=white)
+
+**📊 Data & Automatisation**
+
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-0078D4?style=flat&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![KPI Dashboard](https://img.shields.io/badge/KPI%20Dashboard-10B981?style=flat&logoColor=white)
+
+**📣 Marketing Digital**
+
+![Stratégie](https://img.shields.io/badge/Strat%C3%A9gie%20de%20com.-6366F1?style=flat&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling-EC4899?style=flat&logoColor=white)
+![Copywriting](https://img.shields.io/badge/Copywriting-F97316?style=flat&logoColor=white)
+![Brand Strategy](https://img.shields.io/badge/Brand%20Strategy-8B5CF6?style=flat&logoColor=white)
+
+**📋 Gestion de Projets**
+
+![Agile](https://img.shields.io/badge/M%C3%A9thodologie%20Agile-0052CC?style=flat&logo=jira&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=flat&logo=microsoft&logoColor=white)
+![KPI Suivi](https://img.shields.io/badge/Suivi%20KPI-10B981?style=flat&logoColor=white)
+![Coordination](https://img.shields.io/badge/Coordination-6B7280?style=flat&logoColor=white)
+
+**🤖 Intelligence Artificielle**
+
+![Claude](https://img.shields.io/badge/Claude%204.6-CC785C?style=flat&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT%205-74AA9C?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Julius AI](https://img.shields.io/badge/Julius%20AI-7C3AED?style=flat&logoColor=white)
+![Replit Agent](https://img.shields.io/badge/Replit%20Agent-F26207?style=flat&logo=replit&logoColor=white)
 
 ---
 
