@@ -1,6 +1,6 @@
-### Bonjour, je suis Amine BENALI 👋
+### Hello, je suis Amine BENALI 👋
 
-🚀 **Digital Transformation | Automatisation IA | Communication Digitale**
+🚀 **Digital Transformation & AI Solutions Specialist Web Development • Content Creation • Entrepreneurship**
 🌍 Tunisie & France · Disponible pour opportunités
 
 ---
@@ -14,9 +14,6 @@
 - 📣 Community management & stratégie digitale
 
 ---
-
-#### 🛠️ Stack & Outils
-
 
 #### 🛠️ Stack & Outils
 
