@@ -12,6 +12,7 @@
 - 🌐 Développement web & no-code (Lovable, Windsurf, Supabase)
 - 🎨 Création de contenu & identité visuelle (Canva, Photoshop)
 - 📣 Community management & stratégie digitale
+- 📋 Gestion de projets & coordination (Agile, MS Project, Suivi KPI)
 
 ---
 
