@@ -33,9 +33,9 @@
 | 2026| Community manager | Iron Gym 🇹🇳 |
 | 2026| freelance développeur application mobile | Secret's Fashion 🇹🇳  |
 | 2025 (6 mois) | Junior PMO – Automatisation | Fondation BP CM&GO 🇫🇷 |
-| 2024 | Stage (2 mois)  | Transformation Digitale | Banque Populaire Grand Ouest 🇫🇷 |
-| 2024 | Stage (2 mois)  | Community manager | BONéBIEN 🇹🇳 |
-| 2023 | Stage (2 mois)  | Community manager | BONéBIEN 🇹🇳 |
+| 2024 | Stage (2 mois)  Transformation Digitale | Banque Populaire Grand Ouest 🇫🇷 |
+| 2024 | Stage (2 mois)  Community manager | BONéBIEN 🇹🇳 |
+| 2023 | Stage (2 mois)  Community manager | BONéBIEN 🇹🇳 |
 | 2019-2021 | VP Communication | Enactus ESC Tunis 🇹🇳 |
 
 ---
