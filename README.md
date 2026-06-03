@@ -10,7 +10,6 @@ Grâce à une double vision business et technique, je conçois des solutions inn
 ---
 
 ### 🌐 Découvrez mon portfolio en ligne :
-
-<a href="https://github.io" target="_blank">
+<a href="https://armineben.github.io/Amine-portfolio-/" target="_blank">
   <img src="https://shields.io🚀-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
 </a>
