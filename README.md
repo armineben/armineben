@@ -7,6 +7,7 @@
 
 #### 🧠 Ce que je fais
 
+- 💼 Développement de logiciels ERP & Gestion de stock
 - 🤖 Automatisation de processus métiers (RPA, n8n, VBA)
 - 📊 Tableaux de bord & KPI (Excel, Power BI)
 - 🌐 Développement web & no-code (Lovable, Windsurf, Supabase)
@@ -68,6 +69,8 @@
 
 | Période | Rôle | Structure |
 |---|---|---|
+| 2026| freelance développeur Logiciel ERP & Gestionnaire de Stock | AUTO-PILOT 🇹🇳  |
+| 2026| freelance développeur application mobile | VENDLY 🇹🇳  |
 | 2026| Community manager | Iron Gym 🇹🇳 |
 | 2026| freelance développeur application mobile | Secret's Fashion 🇹🇳  |
 | 2025 (6 mois) | Junior PMO – Automatisation | Fondation BP CM&GO 🇫🇷 |
